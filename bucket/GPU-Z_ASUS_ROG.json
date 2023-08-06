@@ -1,0 +1,13 @@
+{
+  "version": "2.54.0",
+  "homepage": "https://rog.asus.com/tag/gpu-z/",
+  "url": "https://us5-dl.techpowerup.com/files/yrU49-Cereo6Fd7X1j_MFQ/1691378287/GPU-Z_ASUS_ROG_2.54.0.exe",
+  "hash": "a2dfca66b7e4375738d6c8e0e92f288276b560243bf2527e69e58ca76f3ec0f7",
+  "bin": "GPU-Z_ASUS_ROG_2.54.0.exe",
+  "shortcuts": [
+        [
+            "GPU-Z_ASUS_ROG_2.54.0.exe",
+            "GPU-Z"
+        ]
+    ],
+}
