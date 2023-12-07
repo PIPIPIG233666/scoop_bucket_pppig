@@ -1,10 +1,10 @@
 {
-    "version": "1.30",
-    "hash": "21607f059dcaae59dfdb54627f579e7848f3f80117274b23da786f8c5fad3c6a",
+    "version": "1.31",
+    "hash": "b55b61b50af31f396f36bcf4797f30345118025b815362d5051c94c1c57bc388",
     "license": "GNU V3",
     "bin": "Zentimings.exe",
     "homepage": "https://github.com/irusanov/ZenTimings",
-    "url": "https://github.com/irusanov/ZenTimings/releases/download/v1.30/ZenTimings_v1.30.zip",
+    "url": "https://github.com/irusanov/ZenTimings/releases/download/v1.31/ZenTimings_v1.31.zip",
     "shortcuts": [
         [
             "ZenTimings.exe",
