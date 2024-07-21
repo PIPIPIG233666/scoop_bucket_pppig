@@ -1,10 +1,10 @@
 {
-    "version": "2.54.0",
+    "version": "2.59.0",
     "description": "Lightweight system utility designed to provide vital information about your video card and graphics processor.",
     "homepage": "https://www.techpowerup.com/gpuz/",
     "license": "Freeware",
-    "url": "http://us2-dl.techpowerup.com/files/GPU-Z_ASUS_ROG_2.54.0.exe#/GPU-Z_ASUS_ROG_2.54.0.exe",
-    "hash": "md5:3A1F20D93CE6EA89B892B7BC578A054B",
+    "url": "http://us2-dl.techpowerup.com/files/GPU-Z_ASUS_ROG_2.59.0.exe#/GPU-Z_ASUS_ROG_2.59.0.exe",
+    "hash": "md5:a57bb40baf8d710096ffc35466335087",
     "bin": "GPU-Z_ASUS_ROG_2.54.0.exe",
     "shortcuts": [
         [
