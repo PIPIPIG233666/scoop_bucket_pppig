@@ -17,7 +17,7 @@
         "regex": "TechPowerUp GPU-Z v([\\d.]+)"
     },
     "autoupdate": {
-        "url": "http://us2-dl.techpowerup.com/files/GPU-Z_ASUS_ROG.$version.exe#/GPU-Z_ASUS_ROG.$version.exe",
+        "url": "http://us2-dl.techpowerup.com/files/GPU-Z_ASUS_ROG_$version.exe#/GPU-Z_ASUS_ROG_$version.exe",
         "hash": {
             "url": "https://www.techpowerup.com/download/techpowerup-gpu-z/",
             "regex": "(?sm)$basename.*?$md5"
