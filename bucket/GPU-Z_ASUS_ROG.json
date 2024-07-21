@@ -5,10 +5,10 @@
     "license": "Freeware",
     "url": "http://us2-dl.techpowerup.com/files/GPU-Z_ASUS_ROG_2.59.0.exe#/GPU-Z_ASUS_ROG_2.59.0.exe",
     "hash": "md5:a57bb40baf8d710096ffc35466335087",
-    "bin": "GPU-Z_ASUS_ROG_2.54.0.exe",
+    "bin": "GPU-Z_ASUS_ROG.exe",
     "shortcuts": [
         [
-            "GPU-Z_ASUS_ROG_2.54.0.exe",
+            "GPU-Z_ASUS_ROG.exe",
             "GPU-Z ROG Edition"
         ]
     ],
