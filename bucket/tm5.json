@@ -1,9 +1,9 @@
 {
-    "version": "0.13",
-    "hash": "979c5a271b30282470808c23063e0e769ec3f08ace4901ae42f142be427ae30d",
+    "version": "0.13.1",
+    "hash": "05ffb5bbaa0c2243bf25664049c7aa3615a77bd5036497ef845fc8ed50128c12",
     "bin": "TM5.exe",
     "homepage": "https://github.com/CoolCmd/TestMem5",
-    "url": "https://github.com/CoolCmd/TestMem5/releases/download/v0.13/TestMem5.7z",
+    "url": "https://github.com/CoolCmd/TestMem5/releases/download/v0.13.1/TestMem5.7z",
     "shortcuts": [
         [
             "TM5.exe",
