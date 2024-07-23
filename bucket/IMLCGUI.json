@@ -1,0 +1,19 @@
+{
+    "version": "1.2.1-pre",
+    "hash": "54a528ac260db0396d204a6bab3a6d2edd174a2bcd2fca54e92769453676c70d",
+    "license": "GNU V3",
+    "bin": "IMLCGui.exe",
+    "homepage": "https://github.com/FarisR99/IMLCGui",
+    "url": "https://github.com/FarisR99/IMLCGui/releases/download/1.2.1-pre/IMLCGui.exe",
+    "shortcuts": [
+        [
+            "IMLCGui.exe",
+            "Intel MLC GUI"
+        ]
+    ],
+    "checkver": "github",
+    "autoupdate": {
+        "url": "https://github.com/FarisR99/IMLCGui/releases/download/$version/IMLCGui.exe"
+    },
+    "notes": "Make sure to run as Administrator!"
+}
