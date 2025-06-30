@@ -15,7 +15,7 @@
         "arm64": {
             "url": "https://github.com/minnyres/keepassxc-windows-arm64/releases/download/v2.7.10/KeePassXC_2.7.10_arm64.zip", 
             "hash": "710e1ae54096abfbc6236e32ba92868cb763f65e48eaf0c6696bb9dbd29d8e5c", 
-            "extract_dir": "KeePassXC-2.7.10-arm64"
+            "extract_dir": "KeePassXC_2.7.10_arm64"
         }
     },
     "post_install": "if (Test-Path \"$persist_dir\\keepassxc.ini\") { Move-Item \"$persist_dir\\keepassxc.ini\" \"$dir\\config\" -Force }",
