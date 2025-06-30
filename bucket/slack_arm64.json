@@ -8,9 +8,7 @@
     },
     "architecture": {
         "arm64": {
-            "pre_install": [
-                "pre_install": "Get-ChildItem \"$dir\" -Exclude '*.msix' | Remove-Item -Force -Recurse"
-            ], 
+            "pre_install": "Get-ChildItem \"$dir\" -Exclude '*.msix' | Remove-Item -Force -Recurse"
             "url": "https://downloads.slack-edge.com/desktop-releases/windows/arm64/4.44.65/Slack.msix#dl.7z", 
             "hash": "sha1:17DC3C23B74FDF40B3057C5099AB3F2442EA37BD"
         }
