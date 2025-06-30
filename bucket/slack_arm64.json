@@ -19,7 +19,7 @@
     "bin": "app/slack.exe",
     "shortcuts": [
         [
-            "slack.exe",
+            "app/slack.exe",
             "Slack"
         ]
     ],
