@@ -8,12 +8,12 @@
     },
     "architecture": {
         "arm64": {
-            "url": "https://downloads.slack-edge.com/desktop-releases/windows/arm64/4.44.65/Slack.msix#/dl.7z", 
+            "url": "https://downloads.slack-edge.com/desktop-releases/windows/arm64/4.44.65/Slack.msix", 
             "hash": "sha1:17DC3C23B74FDF40B3057C5099AB3F2442EA37BD"
         }
     },
     "pre_install": [
-        "Expand-7zipArchive -Path \"$dir\\*.msix\"",
+        "Expand-7zipArchive -Path \"$dir\\Slack.msix\"",
         "Remove-Item -Path \"$dir\\*\" -Include '*.msix', 'Appx*', '?Content*', 'Code*' -Recurse -Force"
     ],
     "bin": "slack.exe",
