@@ -12,8 +12,7 @@
                     "$file = \"Slack.msix\"",
                     "Remove-Item \"$dir\\*\" -Exclude $file -Recurse",
                     "Expand-7zipArchive \"$dir\\$file\" -Removal | Out-Null"
-                ]
-            },
+            ], 
             "url": "https://downloads.slack-edge.com/desktop-releases/windows/arm64/4.44.65/Slack.msix", 
             "hash": "sha1:17DC3C23B74FDF40B3057C5099AB3F2442EA37BD"
         }
