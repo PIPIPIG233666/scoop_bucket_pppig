@@ -16,7 +16,7 @@
         "Expand-7zipArchive -Path \"$dir\\Slack.msix\"",
         "Remove-Item -Path \"$dir\\*\" -Include '*.msix', 'Appx*', '?Content*', 'Code*' -Recurse -Force"
     ],
-    "bin": "slack.exe",
+    "bin": "app/slack.exe",
     "shortcuts": [
         [
             "slack.exe",
