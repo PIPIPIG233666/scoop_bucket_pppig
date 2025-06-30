@@ -17,7 +17,6 @@
             "hash": "sha1:17DC3C23B74FDF40B3057C5099AB3F2442EA37BD"
         }
     },
-    "extract_dir": "lib\\net45",
     "bin": "slack.exe",
     "shortcuts": [
         [
