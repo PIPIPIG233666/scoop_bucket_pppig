@@ -13,7 +13,7 @@
             "hash": "aac4738d72a3cd6e220f0a3377cc53390b62d7a2f3478ff260e52f24b6c29972"
         }, 
         "arm64": {
-            "usl": "https://github.com/telegramdesktop/tdesktop/releases/download/v5.15.4/tportable-arm64.5.15.4.zip"
+            "usl": "https://github.com/telegramdesktop/tdesktop/releases/download/v5.15.4/tportable-arm64.5.15.4.zip", 
             "hash": "61BA7255B36F35901077D70333649338375DB3D61769396BA2AE094E0266BE31"
         }
     },
