@@ -1,7 +1,7 @@
 {
     "version": "1.03",
     "description": "A hardware monitoring program that reads PC systems main health sensors : voltages, temperatures, fans speed.",
-    "homepage": "https://www.cpuid.com/softwares/hwmonitor.html",
+    "homepage": "https://www.cpuid.com/softwares/hwmonitor-arm64.html",
     "license": "Unknown",
     "architecture": {
         "arm64": {
