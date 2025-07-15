@@ -12,7 +12,7 @@
             "hash": "d02e25d8901c73c23326982a0e35cea6f8d87dc1049d33dd47f88b410380cc1b"
         },
         "32bit": {
-            "url": "https://github.com/Bush2021/chrome_installer/releases/download/138.0.7204.101/x64_138.0.7204.101_chrome_installer_uncompressed.exe#/dl.7z",
+            "url": "https://github.com/Bush2021/chrome_installer/releases/download/138.0.7204.101/x86_138.0.7204.101_chrome_installer_uncompressed.exe#/dl.7z",
             "hash": "b4fd27690e95b51eaa2ec92fff8c05f87e2f251b4152e4a2d9f98d054bb7a0bf"
         },
         "arm64": {
@@ -45,7 +45,7 @@
                 "url": "https://github.com/Bush2021/chrome_installer/releases/download/$version/x64_$version_chrome_installer_uncompressed.exe#/dl.7z"
             },
             "32bit": {
-                "url": "https://github.com/Bush2021/chrome_installer/releases/download/$version/x32_$version_chrome_installer_uncompressed.exe#/dl.7z"
+                "url": "https://github.com/Bush2021/chrome_installer/releases/download/$version/x86_$version_chrome_installer_uncompressed.exe#/dl.7z"
             },
             "arm64": {
                 "url": "https://github.com/Bush2021/chrome_installer/releases/download/$version/arm64_$version_chrome_installer_uncompressed.exe#/dl.7z"
