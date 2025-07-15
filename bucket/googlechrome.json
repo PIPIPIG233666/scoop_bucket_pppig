@@ -37,7 +37,7 @@
         "CHROME_EXECUTABLE": "$dir\\chrome.exe"
     },
     "checkver": {
-        "url": "https://github.com/Bush2021/chrome_installer"
+        "github": "https://github.com/Bush2021/chrome_installer"
     },
     "autoupdate": {
         "architecture": {
