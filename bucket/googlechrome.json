@@ -1,5 +1,5 @@
 {
-    "version": "141.0.7390.123",
+    "version": "142.0.7444.60",
     "description": "Fast, secure, and free web browser, built for the modern web.",
     "homepage": "https://www.google.com/chrome/",
     "license": {
@@ -8,16 +8,16 @@
     },
     "architecture": {
         "64bit": {
-            "url": "https://github.com/Bush2021/chrome_installer/releases/download/141.0.7390.123/x64_141.0.7390.123_chrome_installer_uncompressed.exe#/dl.7z",
-            "hash": "97ec35615b31ec1b5feed78e77ef05b220d4854f95dced032d716b0c7b4428da"
+            "url": "https://github.com/Bush2021/chrome_installer/releases/download/142.0.7444.60/x64_142.0.7444.60_chrome_installer_uncompressed.exe#/dl.7z",
+            "hash": "e45ebd6fc663f2b7a9d5e7525e77094658258e430d14c6bf48088928b1abcbb3"
         },
         "32bit": {
-            "url": "https://github.com/Bush2021/chrome_installer/releases/download/141.0.7390.123/x86_141.0.7390.123_chrome_installer_uncompressed.exe#/dl.7z",
-            "hash": "87fa9bdd8e018137d00e6ea58e5dada10e9fbfa82754c1a7673578baad023430"
+            "url": "https://github.com/Bush2021/chrome_installer/releases/download/142.0.7444.60/x86_142.0.7444.60_chrome_installer_uncompressed.exe#/dl.7z",
+            "hash": "f0170785d6ea009773c54476ab246aa6dd3b24819a001602f9e5474d051e6d94"
         },
         "arm64": {
-            "url": "https://github.com/Bush2021/chrome_installer/releases/download/141.0.7390.123/arm64_141.0.7390.123_chrome_installer_uncompressed.exe#/dl.7z",
-            "hash": "07a54ddede991465d8c25d09ec0101f90e5dd20bdc88d8bd3fe2babf8d209db4"
+            "url": "https://github.com/Bush2021/chrome_installer/releases/download/142.0.7444.60/arm64_142.0.7444.60_chrome_installer_uncompressed.exe#/dl.7z",
+            "hash": "883118344e969539f401ee2ee420ed9a5823c74d41f9eaac7eebe7d2ccf0c3a0"
         }
     },
     "extract_dir": "Chrome-bin",
