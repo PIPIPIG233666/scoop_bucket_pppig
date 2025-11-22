@@ -1,5 +1,5 @@
 {
-    "version": "4.47.59",
+    "version": "4.47.65",
     "description": "Collaboration software",
     "homepage": "https://slack.com",
     "license": {
@@ -8,8 +8,8 @@
     },
     "architecture": {
         "arm64": {
-            "url": "https://downloads.slack-edge.com/desktop-releases/windows/arm64/4.47.59/Slack.msix",
-            "hash": "5c05f89716b04c06f368862049fd4fe3fd7b1e30947a4063c769a7027060b585"
+            "url": "https://downloads.slack-edge.com/desktop-releases/windows/arm64/4.47.65/Slack.msix",
+            "hash": "932299756c086dd22a09ce6c7a736229681b3506d43ea4da8570e95176a92cab"
         }
     },
     "pre_install": [
